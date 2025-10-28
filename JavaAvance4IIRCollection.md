@@ -80,6 +80,7 @@ ArrayList est une implémentation dynamique de tableau redimensionnable. Elle aj
 ## ArrayList - Partie 2
 
 ### Exemple de projet : Gestion d'une collection de Livres
+Remarque: 
 
 **Descriptif :**
 Ce projet simule la gestion d’une petite bibliothèque. Chaque livre est représenté par une classe et stocké dans une ArrayList. Le gestionnaire permet d’ajouter des livres et d’afficher la collection, illustrant l’utilisation pratique d’une ArrayList pour organiser et parcourir des objets.
@@ -145,7 +146,7 @@ class GestionBibliotheque {
 
 ### Définition
 
-LinkedList est une structure de données en liste chaînée doublement liée permettant des insertions et suppressions efficientes au début, à la fin et au milieu de la liste.
+LinkedList est une structure de données en liste(transparente pour l'utlisateur) chaînée doublement liée permettant des insertions et suppressions efficientes au début, à la fin et au milieu de la liste.
 
 ### Comparaison avec ArrayList
 
@@ -812,6 +813,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
