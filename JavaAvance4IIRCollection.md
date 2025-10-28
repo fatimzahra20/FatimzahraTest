@@ -2,6 +2,8 @@
 
 **Auteur : A. Larhlimi**
 
+<img src="collection.jpeg" style="height:464px;margin-right:432px"/>
+
 *Destiné aux étudiants de 4 IIR - EMSI Casablanca*
 Fait par fatimzahra
 ***
@@ -80,7 +82,8 @@ ArrayList est une implémentation dynamique de tableau redimensionnable. Elle aj
 ## ArrayList - Partie 2
 
 ### Exemple de projet : Gestion d'une collection de Livres
-Remarque: 
+
+Remarque: je n'avais pas initialement pensé que la classe livre nécessitait un lien vers GestionBibliotheque.Cet attribut permet désormais a chaque livre de savoir a quelle bibliotheque il appartient ce qui simplifie sa gestion.
 
 **Descriptif :**
 Ce projet simule la gestion d’une petite bibliothèque. Chaque livre est représenté par une classe et stocké dans une ArrayList. Le gestionnaire permet d’ajouter des livres et d’afficher la collection, illustrant l’utilisation pratique d’une ArrayList pour organiser et parcourir des objets.
@@ -162,7 +165,7 @@ LinkedList est une structure de données en liste(transparente pour l'utlisateur
 ## LinkedList - Partie 2
 
 ### Exemple de projet : Gestion de Tâches
-
+Remarque: Le code illustre clairement l’utilisation d’une LinkedList pour gérer des tâches de façon simple et efficace.
 **Descriptif :**
 Ce projet met en œuvre la gestion d’une liste de tâches à accomplir. Chaque tâche est un objet, pouvant être marquée comme terminée. La LinkedList permet d’ajouter, parcourir et terminer la première tâche facilement, montrant son efficacité pour manipuler des listes dont l’ordre d’exécution importe.
 
@@ -813,6 +816,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
