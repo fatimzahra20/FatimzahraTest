@@ -2,10 +2,10 @@
 
 **Auteur : A. Larhlimi**
 
-<img src="collection.jpeg" style="height:464px;margin-right:432px"/>
+
 
 *Destiné aux étudiants de 4 IIR - EMSI Casablanca*
-Fait par fatimzahra
+Fait par fatimzahra essaadani
 ***
 
 ## Introduction
@@ -362,7 +362,7 @@ public class ExempleLinkedHashSet {
 ## TreeSet - Partie 1
 
 ### Définition
-
+Remarque: le Hascode sa serait un element d'afficher les listes;haccode est unique mais il est pas ordonees .
 TreeSet implémente l'interface Set en utilisant un arbre binaire de recherche équilibré (Red-Black Tree).
 
 ### Ordre naturel
@@ -478,6 +478,7 @@ public class Personne {
 
 ## Interface Queue
 
+
 Une Queue est une collection qui suit le principe FIFO (First In First Out).
 
 Caractéristiques :
@@ -569,6 +570,8 @@ public class ExempleArrayDeque {
 ***
 
 ## Interface Map
+
+
 
 Map est une collection qui associe une clé à une valeur. Chaque clé est unique.
 
@@ -816,6 +819,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
